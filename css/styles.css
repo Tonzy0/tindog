@@ -65,7 +65,8 @@ p {
 }
 
 .navbrand-image {
-  border-radius: 100%;
+  border-radius: 10%;
+  box-shadow: 2px 2px #222831;
 }
 
 /* Download Buttons */
